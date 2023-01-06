@@ -18,10 +18,10 @@ const Navbar = () => {
           <ul className='flex text-white items-center'>
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="#tokenomics">About</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Telegram</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Buy</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
+            <li><a href="https://t.me/OldPyro" target="_blank" rel="noopener noreferrer">Telegram</a></li>
+            <li><a href="https://twitter.com/oldpyro_eth" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+            <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0xe634d0fe65a0825dc70e8d3463c311bd2590bbff" target="_blank" rel="noopener noreferrer">Buy</a></li>
+            <li><a href="mailto:oldpyro1@gmail.com" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
             <button className='m-2 bg-white hover:bg-red-500 text-black font-bold py-2 px-4 rounded'><a href="/" target="_blank" rel="noopener noreferrer">Dashboard</a></button>
           </ul>
         </div>
