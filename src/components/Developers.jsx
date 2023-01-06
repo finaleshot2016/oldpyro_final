@@ -1,6 +1,4 @@
 import React from 'react';
-import terminal from '../assets/fee.png'
-import terminal1 from '../assets/DOGETH.png'
 
 const Developers = () => {
   return (
